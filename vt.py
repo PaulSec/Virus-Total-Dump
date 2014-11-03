@@ -1,6 +1,8 @@
 #!/bin/python
 # coding: utf-8
 
+# python vt.py  -F hashes.txt -t 1
+
 import requests
 import sys
 from Queue import Queue
